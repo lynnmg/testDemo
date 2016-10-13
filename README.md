@@ -1,4 +1,4 @@
 # testDemo
 #test for github
-#Analog process communication  in UC.
+#Analog processes communication  in UC.
 
